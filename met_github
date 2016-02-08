@@ -1,0 +1,13 @@
+1. een account aanmaken op github.com
+2. installeer github desktop https://desktop.github.com/ 
+3. (een persoon per team) op github.com onder je profiel bij het tabblad repositories een nieuwe repository aanmaken
+    * klik op setup in desktop
+    * als het goed is hoef je dan in github desktop geen file > clone repository meer te doen
+4. klik op de net aangemaakte repository en klik (tandwiel) settings, menu collaborators om je teamleden uit te nodigen voor je repository. https://help.github.com/articles/adding-collaborators-to-a-personal-repository/
+5. ga naar https://github.com/buimf/ubipsych/issues om de opdrachten voor deze week te bekijken en naar je eigen project te kopieren.
+6. kies in github destkop menu: file > clone repository om een project naar je laptop te kopieren.
+    * kies bijvoorbeeld ~/git/ als basismap zodat je team-repository bijvoorbeeld ~/git/teamnaam heet...
+7. vervolgens kun je met github desktop ook op je laptop gemaakte bestanden
+    * commit-ten (versie bewaren) 
+    * pull request (teamgenoten om commentaar vragen)
+    * merge-n (toevoegen aan team-repository)
